@@ -1,4 +1,7 @@
-## DevOps Project for Beginners   
+## Resume Website Project  
 
-[![Image](https://github.com/yankils/Simple-DevOps-Project/blob/master/Devops_course.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")](https://www.udemy.com/course/valaxy-devops/?referralCode=8147A5CF4C8C7D9E253F)
-# Resume-Website-Project
+Technologies used: HTML, CSS, GitHub, Amazon Web Services (AWS), EC2, Jenkins, Maven, Tomcat Server.
+
+Created a resume website with a pre-built HTML/CSS template for the frontend. 
+Configured Jenkins and Maven to pull code from GitHub and build. 
+Automated the deployment of artifacts to Tomcat Server.
